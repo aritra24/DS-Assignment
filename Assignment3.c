@@ -71,6 +71,7 @@ void startLoop(int array[rows][columns],int visited[rows][columns])
 		}
 	return;
 }
+
 int main()
 {
 	printf("Enter rows and columns\n");
